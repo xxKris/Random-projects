@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Profile</title>
+</head>
+<body>
+  <h1>Welcome to my Profile</h1>
+  
+  <nav>
+    <ul>
+      <li><a href="https://www.facebook.com/yourusername">Facebook</a></li>
+      <li><a href="https://www.twitter.com/yourusername">Twitter</a></li>
+      <li><a href="https://www.instagram.com/yourusername">Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
+    </ul>
+  </nav>
+  
+  <p>Thanks for visiting my profile!</p>
+</body>
+</html>
