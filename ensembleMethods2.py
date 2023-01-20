@@ -35,3 +35,4 @@ accuracy_bagging = bagging.score(X_test, y_test)
 accuracy_boosting = boosting.score(X_test, y_test)
 print("Accuracy of Bagging: {:.2f}%".format(accuracy_bagging*100))
 print("Accuracy of Boosting: {:.2f}%".format(accuracy_boosting*100))
+
